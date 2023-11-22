@@ -197,3 +197,5 @@ def redrawWindow(surface):
                     break
 
             redrawWindow(win)
+
+main()
